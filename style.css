@@ -1,0 +1,67 @@
+img {
+
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+
+}
+
+.per {
+    display: flex;
+}
+
+hr {
+    height: 3px;
+    background-color: yellow;
+    border: none;
+    width: 190px;
+
+}
+
+.nom {
+    margin-left: 20px;
+}
+
+.personnee {
+    display: flex;
+    justify-content: space-around;
+
+
+
+}
+
+
+.contact2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+.r {
+    width: 190px;
+    margin-bottom: 40px;
+}
+
+input {
+    height: 20px;
+    width: 110px;
+}
+
+.container {
+    width: 50%;
+    height: 50%;
+}
+
+.side {
+    height: 100%;
+    width: 25%;
+    background-color: violet;
+}
+
+.bgr {
+    height: 100%;
+    width: 75%;
+    background-color: white;
+}
